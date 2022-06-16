@@ -1,0 +1,6 @@
+bioc-api-package (0.0.1) unstable; urgency=medium
+
+  * Initial packaging
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 16 May 2022 21:23:08 -0500
+

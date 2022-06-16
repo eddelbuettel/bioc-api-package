@@ -1,0 +1,13 @@
+Source: bioc-api-package
+Section: gnu-r
+Priority: optional
+Maintainer: Dirk Eddelbuettel <edd@debian.org>
+Build-Depends: 
+Standards-Version: 4.6.1
+Rules-Requires-Root: binary-targets
+
+Package: bioc-api-package
+Architecture: all
+Depends: ${misc:Depends}
+Provides: r-api-bioc-3.14
+Description: Provide the r-api-bioc-3.14 tag
